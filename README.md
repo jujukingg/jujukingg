@@ -1,7 +1,7 @@
 Salut tout le monde, Je suis JujuKing, développeur full stack passionné par la programmation. 🚀
 
 <a href="https://jujuking.fr/web">
-  <img align="left" alt="jujuking.fr" width="21px" src="https://cloud.githubusercontent.com/assets/4942610/3628989/d0df8842-0e9a-11e4-953f-204405c619e4.jpg" />
+  🌐
 </a>
 
 <a href="https://discord.gg/9M6EqY75QF">
