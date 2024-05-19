@@ -31,8 +31,8 @@ Je m'appelle JujuKing et je suis développeur full stack avec une expertise dans
 
 ## 🌟 Projets et Contributions :
 
-- **[McSync]** : McSync est un logiciel innovant pour Minecraft qui facilite l'envoi illimité de mods entre utilisateurs.
-- **[ModManager]** : ModManager est une extension de McSync qui organise automatiquement vos mods Minecraft dans le dossier approprié et crée des versions personnalisées telles que Fabric ou Optifine sur le launcher officiel de Minecraft.
+- **McSync** : McSync est un logiciel innovant pour Minecraft qui facilite l'envoi illimité de mods entre utilisateurs.
+- **ModManager** : ModManager est une extension de McSync qui organise automatiquement vos mods Minecraft dans le dossier approprié et crée des versions personnalisées telles que Fabric ou Optifine sur le launcher officiel de Minecraft.
 - **[Game Reduction](https://gamereduction.fr/)** : Game Reduction est une entreprise spécialisée dans la fourniture d'items in-game et d'abonnements à des prix réduits.
 
 ## 📈 Statistiques GitHub :
