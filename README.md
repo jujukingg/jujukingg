@@ -37,7 +37,7 @@ Je m'appelle JujuKing et je suis développeur full stack avec une expertise dans
 ## 📈 Statistiques GitHub :
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jujukingg&show_icons=true&include_all_commits=true&theme=github_dark"/>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jujukingg&layout=compact&theme=github_dark&custom_title=Les langages les plus utilisés"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jujukingg&layout=compact&theme=github_dark"/>
 
 ## 🔗 Restez Connecté :
 
