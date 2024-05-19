@@ -1,16 +1,47 @@
-### Hi there 👋
+Salut tout le monde, Je suis JujuKing, développeur full stack passionné par la programmation. 🚀
 
-<!--
-**jujukingg/jujukingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://jujuking.fr/web">
+  <img align="left" alt="jujuking.fr" width="21px" src="https://cloud.githubusercontent.com/assets/4942610/3628989/d0df8842-0e9a-11e4-953f-204405c619e4.jpg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://discord.gg/9M6EqY75QF">
+  <img align="left" alt="JujuKing Shop " width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Langages de Programmation et Technologies :
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
+
+<br />
+
+Je m'appelle JujuKing et je suis développeur full stack avec une expertise dans une variété de langages et de technologies, y compris Java, JavaScript, Node.js, Electron, HTML, PHP, Python, CSS, Lua, Batch, et PowerShell. Mon objectif est de créer des solutions innovantes et efficaces pour les défis modernes en utilisant les dernières technologies disponibles.
+
+## 🌟 Projets et Contributions :
+
+- **[Projet A](https://github.com/jujukingg/projet-a)** : Description courte du projet A.
+- **[Projet B](https://github.com/jujukingg/projet-b)** : Description courte du projet B.
+- **[Contributeur à XYZ](https://github.com/xyz/xyz)** : Description courte de la contribution à XYZ.
+
+## 📈 Statistiques GitHub :
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jujukingg&show_icons=true&include_all_commits=true&theme=github_dark&custom_title=Mes Statistiques"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jujukingg&layout=compact&theme=github_dark&custom_title=Les langages les plus utilisés"/>
+
+## 🔗 Restez Connecté :
+
+- Discord: [Mon Shop](https://discord.gg/9M6EqY75QF)
+- Site Web: [JujuKing](https://jujuking.fr)
+
+Merci de visiter ma page GitHub ! 😊🚀
