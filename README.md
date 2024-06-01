@@ -26,7 +26,7 @@ Salut tout le monde, Je suis JujuKing, développeur full stack passionné par la
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 
 <br />
-<a href="https://wakatime.com/@018b7fe9-d3a1-408a-8c57-8df2e58124c2"><img src="https://wakatime.com/badge/user/018b7fe9-d3a1-408a-8c57-8df2e58124c2.svg" alt="Total time coded since Oct 30 2023" /></a>
+
 Je m'appelle JujuKing et je suis développeur full stack avec une expertise dans une variété de langages et de technologies, y compris Java, JavaScript, Node.js, Electron, HTML, PHP, Python, CSS, Lua, Batch, et PowerShell. Mon objectif est de créer des solutions innovantes et efficaces pour les défis modernes en utilisant les dernières technologies disponibles.
 
 ## 🌟 Projets et Contributions :
@@ -35,11 +35,11 @@ Je m'appelle JujuKing et je suis développeur full stack avec une expertise dans
 - **ModManager** : ModManager est une extension de McSync qui organise automatiquement vos mods Minecraft dans le dossier approprié et crée des versions personnalisées telles que Fabric ou Optifine sur le launcher officiel de Minecraft.
 - **[Game Reduction](https://gamereduction.fr/)** : Game Reduction est une entreprise spécialisée dans la fourniture d'items in-game et d'abonnements à des prix réduits.
 
-## 📈 Statistiques GitHub :
+## 📈 Statistiques :
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jujukingg&show_icons=true&include_all_commits=true&theme=github_dark"/>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jujukingg&layout=compact&theme=github_dark"/>
-
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jujukingg&layout=compact&theme=github_dark"/>
+[<a href="https://wakatime.com/@018b7fe9-d3a1-408a-8c57-8df2e58124c2"><img src="https://wakatime.com/badge/user/018b7fe9-d3a1-408a-8c57-8df2e58124c2.svg" alt="Total time coded since Oct 30 2023" /></a>](https://wakatime.com/badge/user/018b7fe9-d3a1-408a-8c57-8df2e58124c2.svg)
 ## 🔗 Restez Connecté :
 
 - Discord: [Mon Shop](https://discord.gg/9M6EqY75QF)
