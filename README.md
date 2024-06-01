@@ -39,7 +39,8 @@ Je m'appelle JujuKing et je suis développeur full stack avec une expertise dans
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jujukingg&show_icons=true&include_all_commits=true&theme=github_dark"/>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jujukingg&layout=compact&theme=github_dark"/>
-[<a href="https://wakatime.com/@018b7fe9-d3a1-408a-8c57-8df2e58124c2"><img src="https://wakatime.com/badge/user/018b7fe9-d3a1-408a-8c57-8df2e58124c2.svg" alt="Total time coded since Oct 30 2023" /></a>](https://wakatime.com/badge/user/018b7fe9-d3a1-408a-8c57-8df2e58124c2.svg)
+<img align="center" src="https://wakatime.com/badge/user/018b7fe9-d3a1-408a-8c57-8df2e58124c2.svg"/>
+
 ## 🔗 Restez Connecté :
 
 - Discord: [Mon Shop](https://discord.gg/9M6EqY75QF)
