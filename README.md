@@ -1,6 +1,6 @@
 Salut tout le monde, Je suis JujuKing, développeur full stack passionné par la programmation. 🚀
 
-<a href="https://jujuking.fr/web">
+<a href="https://jujuking.fr/">
   🌐
 </a>
 
@@ -44,6 +44,6 @@ Je m'appelle JujuKing et je suis développeur full stack avec une expertise dans
 ## 🔗 Restez Connecté :
 - Mes Stats: [WakaTime](https://wakatime.com/@jujuking)
 - Discord: [Mon Shop](https://discord.gg/9M6EqY75QF)
-- Site Web: [JujuKing](https://jujuking.fr)
+- Site Web: [JujuKing](https://jujuking.fr/)
 
 Merci de visiter ma page GitHub ! 😊🚀
